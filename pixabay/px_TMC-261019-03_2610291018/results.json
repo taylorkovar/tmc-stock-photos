@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "query": "old dog resting",
+  "total_found": 500,
+  "results": [
+    {
+      "file": "pixabay/px_TMC-261019-03_2610291018/1.jpg",
+      "pixabay_id": 7862112,
+      "page": "https://pixabay.com/photos/animals-dogs-portrait-weimaraner-7862112/",
+      "tags": "animals, dogs, portrait, weimaraner, days, nature, pets, dane",
+      "width": 3264,
+      "height": 4928,
+      "photographer": "mtajmr"
+    },
+    {
+      "file": "pixabay/px_TMC-261019-03_2610291018/2.jpg",
+      "pixabay_id": 5296812,
+      "page": "https://pixabay.com/photos/prague-charles-bridge-bridge-man-5296812/",
+      "tags": "prague, charles bridge, bridge, man, dog, gary crowd, walking, towers, silhouettes, dome, fog, morning, sunrise, europe, statue, nature, lantern, road, mediaeval, pet, old, mystery, sun, travel, destination, animal, phone wallpaper, aesthetic wallpaper",
+      "width": 3990,
+      "height": 5985,
+      "photographer": "dropolto"
+    },
+    {
+      "file": "pixabay/px_TMC-261019-03_2610291018/3.jpg",
+      "pixabay_id": 9533774,
+      "page": "https://pixabay.com/photos/animals-vizsla-hunting-dog-portrait-9533774/",
+      "tags": "animals, nature, vizsla, hunting dog, portrait",
+      "width": 3097,
+      "height": 4646,
+      "photographer": "hekovs"
+    },
+    {
+      "file": "pixabay/px_TMC-261019-03_2610291018/4.jpg",
+      "pixabay_id": 9735421,
+      "page": "https://pixabay.com/photos/dog-old-german-shepherd-shepherd-dog-9735421/",
+      "tags": "dog, old german shepherd, pet, shepherd dog, herding dog, long stick hair, family dog, loyal, intelligent, athletic, vigilant, obedience, dog breed, nature lover, dog sport, companion dog, security service, dog training, puppy, young dog, animal, animal lover, dog owner",
+      "width": 4672,
+      "height": 7008,
+      "photographer": "guvo59"
+    },
+    {
+      "file": "pixabay/px_TMC-261019-03_2610291018/5.jpg",
+      "pixabay_id": 8655457,
+      "page": "https://pixabay.com/photos/german-shorthaired-pointer-pointer-8655457/",
+      "tags": "german shorthaired pointer, pointer, gsp, dog, sunset, nature, pet, canine, animal",
+      "width": 4128,
+      "height": 6192,
+      "photographer": "brixiv"
+    },
+    {
+      "file": "pixabay/px_TMC-261019-03_2610291018/6.jpg",
+      "pixabay_id": 5606558,
+      "page": "https://pixabay.com/photos/dog-pet-canine-domestic-old-german-5606558/",
+      "tags": "dog, pet, canine, domestic, old german, sch\u00e4fer dog, nature, animal",
+      "width": 3776,
+      "height": 3950,
+      "photographer": "Annette1209"
+    }
+  ]
+}
