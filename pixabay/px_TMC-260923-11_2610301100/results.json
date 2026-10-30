@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "query": "squishy toys",
+  "total_found": 500,
+  "results": [
+    {
+      "file": "pixabay/px_TMC-260923-11_2610301100/1.jpg",
+      "pixabay_id": 70564,
+      "page": "https://pixabay.com/photos/kush-ball-colorful-70564/",
+      "tags": "kush, ball, colorful, kush, kush, kush, kush, kush",
+      "width": 2304,
+      "height": 1728,
+      "photographer": "mikuratv"
+    },
+    {
+      "file": "pixabay/px_TMC-260923-11_2610301100/2.jpg",
+      "pixabay_id": 797577,
+      "page": "https://pixabay.com/photos/teddy-bear-bear-little-bear-797577/",
+      "tags": "teddy bear, bear, nature, little bear, stuffed animal, teddy, cute, fun, plush, cozy, cuddly toy, children, animal, meadow, toy, to play, cap",
+      "width": 6016,
+      "height": 4000,
+      "photographer": "Alexas_Fotos"
+    },
+    {
+      "file": "pixabay/px_TMC-260923-11_2610301100/3.jpg",
+      "pixabay_id": 3595453,
+      "page": "https://pixabay.com/photos/stuffed-toy-teddy-bear-plush-toy-3595453/",
+      "tags": "stuffed toy, teddy bear, plush toy, cute, teddy bear, teddy bear, teddy bear, teddy bear, teddy bear",
+      "width": 5928,
+      "height": 3862,
+      "photographer": "Alexas_Fotos"
+    },
+    {
+      "file": "pixabay/px_TMC-260923-11_2610301100/4.jpg",
+      "pixabay_id": 1835598,
+      "page": "https://pixabay.com/photos/teddy-bear-toy-plush-stuffed-toy-1835598/",
+      "tags": "teddy bear, toy, plush, stuffed toy, stuffed animal, plush toy, children's toys, macro, alone, lost, forgotten, childhood, sad, teddy bear, alone, alone, lost, lost, lost, sad, sad, sad, sad, sad",
+      "width": 3872,
+      "height": 2592,
+      "photographer": "Pexels"
+    },
+    {
+      "file": "pixabay/px_TMC-260923-11_2610301100/5.jpg",
+      "pixabay_id": 1521663,
+      "page": "https://pixabay.com/photos/hang-out-plush-toys-kermit-1521663/",
+      "tags": "hang out, plush toys, kermit, the pink panther, toy, fun, to play, stuffed animal, funny, children, figure, plush, frog, panther, hang out, hang out, kermit, kermit, funny, funny, funny, funny, funny, children, frog, panther, panther",
+      "width": 6016,
+      "height": 4000,
+      "photographer": "Alexas_Fotos"
+    },
+    {
+      "file": "pixabay/px_TMC-260923-11_2610301100/6.jpg",
+      "pixabay_id": 8783348,
+      "page": "https://pixabay.com/photos/teddy-cuddly-toy-stuffed-animal-8783348/",
+      "tags": "teddy, cuddly toy, stuffed animal, white, brown, cuddle, toy, children, cute, stuffed animal, toy, toy, toy, toy, toy",
+      "width": 3500,
+      "height": 2334,
+      "photographer": "Bellahu123"
+    }
+  ]
+}
