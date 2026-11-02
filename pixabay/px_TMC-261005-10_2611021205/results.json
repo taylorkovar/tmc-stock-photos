@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "query": "hands cash money",
+  "total_found": 500,
+  "results": [
+    {
+      "file": "pixabay/px_TMC-261005-10_2611021205/1.jpg",
+      "pixabay_id": 6688955,
+      "page": "https://pixabay.com/photos/money-saving-money-piggy-bank-6688955/",
+      "tags": "money, saving money, piggy bank, investment, finance, savings, deposit, budget, piggy bank, piggy bank, piggy bank, piggy bank, piggy bank, budget, budget",
+      "width": 4000,
+      "height": 6000,
+      "photographer": "OleksandrPidvalnyi"
+    },
+    {
+      "file": "pixabay/px_TMC-261005-10_2611021205/2.jpg",
+      "pixabay_id": 1088855,
+      "page": "https://pixabay.com/photos/dollar-bill-hand-grass-money-cash-1088855/",
+      "tags": "dollar bill, hand, grass, money, nature, cash, green money, United States, Chelsea, Michigan",
+      "width": 2448,
+      "height": 3264,
+      "photographer": "unravelledraven"
+    },
+    {
+      "file": "pixabay/px_TMC-261005-10_2611021205/3.jpg",
+      "pixabay_id": 6032832,
+      "page": "https://pixabay.com/photos/woman-money-dollars-bills-cash-6032832/",
+      "tags": "woman, money, dollars, bills, cash, currency, girl, person, closeup, portrait, money, money, money, money, money, currency",
+      "width": 4480,
+      "height": 6720,
+      "photographer": "mohmadnady"
+    },
+    {
+      "file": "pixabay/px_TMC-261005-10_2611021205/4.jpg",
+      "pixabay_id": 2211241,
+      "page": "https://pixabay.com/photos/young-woman-money-keeps-gain-2211241/",
+      "tags": "young woman, money, keeps, gain, in the hands, fan, shows, happy, money, money, money, money, money, gain",
+      "width": 3456,
+      "height": 5184,
+      "photographer": "Alexandr33"
+    },
+    {
+      "file": "pixabay/px_TMC-261005-10_2611021205/5.jpg",
+      "pixabay_id": 1080540,
+      "page": "https://pixabay.com/photos/coin-coins-money-savings-wealth-1080540/",
+      "tags": "coin, coins, money, savings, wealth, rich, glossy, business, income, euro, dime, minor, pennies, buck, cents, cash, currency, financial, finances, loan, bills, coin, money, savings, rich, income, dime, pennies, pennies, pennies, pennies, pennies, loan",
+      "width": 2832,
+      "height": 4256,
+      "photographer": "jarmoluk"
+    },
+    {
+      "file": "pixabay/px_TMC-261005-10_2611021205/6.jpg",
+      "pixabay_id": 6018251,
+      "page": "https://pixabay.com/photos/woman-coin-euro-money-investment-6018251/",
+      "tags": "woman, coin, euro, money, investment, financial, euro coin, euro money, business woman, business, payment, buy, taxes, fun, surprised, money, money, money, money, money, euro coin, business woman, business woman, business woman, business woman, business woman",
+      "width": 3456,
+      "height": 5184,
+      "photographer": "outsideclick"
+    }
+  ]
+}
