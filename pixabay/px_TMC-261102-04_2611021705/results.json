@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "query": "pennies dime coins",
+  "total_found": 215,
+  "results": [
+    {
+      "file": "pixabay/px_TMC-261102-04_2611021705/1.jpg",
+      "pixabay_id": 1175885,
+      "page": "https://pixabay.com/photos/money-coins-banking-currency-1175885/",
+      "tags": "money, coins, banking, currency, economy, finance, investment, business, financial, bank, wealth, cash, profit, income, saving, success, budget, market, earn, invest, piggy, accounting, save money, saving money, rich, earnings, revenue, security, deposit, save money concept, making, benefit, exchange, investing, brown money, brown finance, brown bank, brown security, brown economy, brown accounting, brown market",
+      "width": 3080,
+      "height": 5472,
+      "photographer": "InspiredImages"
+    },
+    {
+      "file": "pixabay/px_TMC-261102-04_2611021705/2.jpg",
+      "pixabay_id": 1157903,
+      "page": "https://pixabay.com/photos/coins-money-collection-savings-1157903/",
+      "tags": "coins, money, collection, savings, coins, coins, coins, coins, coins, money, savings, savings, savings",
+      "width": 2730,
+      "height": 2991,
+      "photographer": "makamuki0"
+    },
+    {
+      "file": "pixabay/px_TMC-261102-04_2611021705/3.jpg",
+      "pixabay_id": 7736034,
+      "page": "https://pixabay.com/photos/neon-light-pink-penny-supermarket-7736034/",
+      "tags": "neon, light, pink, penny, supermarket, food, kiez, reeperbahn",
+      "width": 4024,
+      "height": 6024,
+      "photographer": "Photowrld"
+    },
+    {
+      "file": "pixabay/px_TMC-261102-04_2611021705/4.jpg",
+      "pixabay_id": 7904063,
+      "page": "https://pixabay.com/photos/penny-lada-yellow-zhiguli-7904063/",
+      "tags": "penny, lada, yellow zhiguli, yellow penny, vaz-2101, soviet, transport, woman, militia, 80s, ussr, police uniform, female police officer, a uniform, ussr police officer, retro, vintage, nostalgia, driver, portrait",
+      "width": 2400,
+      "height": 3600,
+      "photographer": "Sunriseforever"
+    },
+    {
+      "file": "pixabay/px_TMC-261102-04_2611021705/5.jpg",
+      "pixabay_id": 2414,
+      "page": "https://pixabay.com/photos/coin-chinese-china-money-white-2414/",
+      "tags": "coin, chinese, china, money, beautiful wallpaper, white, background, old, iphone wallpaper",
+      "width": 1260,
+      "height": 1280,
+      "photographer": "PublicDomainPictures"
+    },
+    {
+      "file": "pixabay/px_TMC-261102-04_2611021705/6.jpg",
+      "pixabay_id": 231842,
+      "page": "https://pixabay.com/photos/elm-leaf-mountain-elm-231842/",
+      "tags": "elm leaf, mountain elm, size comparison, cent, coin, coloring, yellow, green, leaves, big, gigantic, autumn leaves, ulmus glabra, ulmus scabra, nature, ulmus montana, elms, ulmus, elm family, ulmaceae",
+      "width": 3648,
+      "height": 5472,
+      "photographer": "Hans"
+    }
+  ]
+}

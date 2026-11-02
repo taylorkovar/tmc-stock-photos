@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "query": "ceiling corner room",
+  "total_found": 500,
+  "results": [
+    {
+      "file": "pixabay/px_TMC-261102-12_2611021700/1.jpg",
+      "pixabay_id": 5311579,
+      "page": "https://pixabay.com/photos/%EB%85%B8%EB%9E%91-%EB%B2%BD-%ED%99%94%EC%9D%B4%ED%8A%B8-wall-yellow-scooter-5311579/",
+      "tags": "\ub178\ub791, \ubcbd, \ud654\uc774\ud2b8, wall, yellow, scooter",
+      "width": 2268,
+      "height": 4032,
+      "photographer": "suna31107"
+    },
+    {
+      "file": "pixabay/px_TMC-261102-12_2611021700/2.jpg",
+      "pixabay_id": 2598201,
+      "page": "https://pixabay.com/photos/interior-design-architecture-light-2598201/",
+      "tags": "interior, design, architecture, light, angle",
+      "width": 1536,
+      "height": 2050,
+      "photographer": "StockSnap"
+    },
+    {
+      "file": "pixabay/px_TMC-261102-12_2611021700/3.jpg",
+      "pixabay_id": 10505991,
+      "page": "https://pixabay.com/photos/cozy-living-room-rustic-interior-10505991/",
+      "tags": "cozy living room, rustic interior, wooden walls, soft natural light, candles on table, sofa, pillows, small windows, homey atmosphere, warm tones, evening mood, corner composition, iphone wallpaper, phone wallpaper, background, background images, image of evening, beautiful wallpaper, home comfort, small spaces, atmosphere of calm, comfort",
+      "width": 3114,
+      "height": 4667,
+      "photographer": "ahmetyuksek"
+    },
+    {
+      "file": "pixabay/px_TMC-261102-12_2611021700/4.jpg",
+      "pixabay_id": 4216326,
+      "page": "https://pixabay.com/photos/guitar-room-music-style-4216326/",
+      "tags": "guitar, room, music, style, iphone wallpaper, guitar, guitar, guitar, guitar, guitar, room, room, music, iphone wallpaper, iphone wallpaper",
+      "width": 3456,
+      "height": 5184,
+      "photographer": "tori_tori"
+    },
+    {
+      "file": "pixabay/px_TMC-261102-12_2611021700/5.jpg",
+      "pixabay_id": 7374959,
+      "page": "https://pixabay.com/photos/ireland-library-books-dublin-7374959/",
+      "tags": "ireland, library, books, dublin, architecture, trinity college, dublin, dublin, dublin, dublin, dublin",
+      "width": 3325,
+      "height": 4812,
+      "photographer": "LeBonVieuxMax"
+    },
+    {
+      "file": "pixabay/px_TMC-261102-12_2611021700/6.jpg",
+      "pixabay_id": 1484853,
+      "page": "https://pixabay.com/photos/chair-wall-living-room-furniture-1484853/",
+      "tags": "chair, wall, living room, furniture, comfortable, decor, setup, space, chair, chair, living room, living room, living room, living room, living room",
+      "width": 2309,
+      "height": 3200,
+      "photographer": "sarahdorweiler"
+    }
+  ]
+}
