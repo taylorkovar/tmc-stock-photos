@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "query": "smartphone coffee mug kitchen",
+  "total_found": 500,
+  "results": [
+    {
+      "file": "pixabay/px_TMC-261104-12_2611041107/1.jpg",
+      "pixabay_id": 3242369,
+      "page": "https://pixabay.com/photos/people-woman-person-cup-coffee-3242369/",
+      "tags": "people, woman, coffee cup, person, cup, coffee, mug, lady",
+      "width": 2304,
+      "height": 3456,
+      "photographer": "allannyima"
+    },
+    {
+      "file": "pixabay/px_TMC-261104-12_2611041107/2.jpg",
+      "pixabay_id": 8342636,
+      "page": "https://pixabay.com/photos/coffee-cup-cappuccino-drink-8342636/",
+      "tags": "coffee, cup, cappuccino, drink, coffee cup, ceramic mug, caffeine, breakfast, espresso, tableware, still life",
+      "width": 4000,
+      "height": 6000,
+      "photographer": "Arturo_Anez"
+    },
+    {
+      "file": "pixabay/px_TMC-261104-12_2611041107/3.jpg",
+      "pixabay_id": 4862622,
+      "page": "https://pixabay.com/photos/coffee-milk-cappuccino-drink-caf%C3%A9-4862622/",
+      "tags": "coffee, milk, coffee cup, cappuccino, drink, caf\u00e9, mug, hot, caffeine, espresso, scent, breakfast",
+      "width": 3674,
+      "height": 5653,
+      "photographer": "Be_Stasya"
+    },
+    {
+      "file": "pixabay/px_TMC-261104-12_2611041107/4.jpg",
+      "pixabay_id": 8544672,
+      "page": "https://pixabay.com/photos/sunset-phone-capture-view-scenery-8544672/",
+      "tags": "sunset, phone, capture, view, scenery, photography, netherlands, magical, nature, sea, nature, nature, nature, nature, nature",
+      "width": 4000,
+      "height": 6000,
+      "photographer": "BKjaev"
+    },
+    {
+      "file": "pixabay/px_TMC-261104-12_2611041107/5.jpg",
+      "pixabay_id": 5176961,
+      "page": "https://pixabay.com/photos/coffee-mug-heart-caffeine-food-5176961/",
+      "tags": "coffee, mug, heart, caffeine, food, black, aroma, books, espresso, drink, valentine's day, coffee cup, in the morning, cafe, warm, breakfast, seeds, break, hot, restaurant, caf\u00e9, menu, lunch, taste",
+      "width": 4160,
+      "height": 6240,
+      "photographer": "KonradJanik"
+    },
+    {
+      "file": "pixabay/px_TMC-261104-12_2611041107/6.jpg",
+      "pixabay_id": 9380550,
+      "page": "https://pixabay.com/photos/coffee-latte-art-candle-cozy-drink-9380550/",
+      "tags": "coffee, mobile wallpaper, latte art, iphone wallpaper, candle, ipad wallpaper, mobile wallpaper 4k, cozy, drink, phone wallpaper, relaxation, aroma, samsung wallpaper, beautiful wallpaper, lock screen wallpaper, coffee time, 4k, wallpaper, background",
+      "width": 4918,
+      "height": 7373,
+      "photographer": "ahmetyuksek"
+    }
+  ]
+}

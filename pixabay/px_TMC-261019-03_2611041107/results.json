@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "query": "couple arguing",
+  "total_found": 500,
+  "results": [
+    {
+      "file": "pixabay/px_TMC-261019-03_2611041107/1.jpg",
+      "pixabay_id": 10140688,
+      "page": "https://pixabay.com/photos/couple-on-bench-autumn-romance-10140688/",
+      "tags": "couple on bench, autumn romance, lakeside view, mobile wallpaper, lock screen wallpaper, mobile wallpaper 4k, phone wallpaper, cozy moment, fall season, nature love, scenic beauty, peaceful retreat, relationship goals, beautiful wallpaper, outdoor date, tranquil forest, serene landscape, wallpaper, samsung wallpaper, background images, iphone wallpaper, background, 4k, pixabay, ipad wallpaper, desktop wallpaper, desktop background",
+      "width": 3092,
+      "height": 4634,
+      "photographer": "ahmetyuksek"
+    },
+    {
+      "file": "pixabay/px_TMC-261019-03_2611041107/2.jpg",
+      "pixabay_id": 1850074,
+      "page": "https://pixabay.com/photos/wedding-couple-bride-marriage-1850074/",
+      "tags": "wedding, couple, bride, marriage, groom, man, people, silhouettes, woman, couple silhouette, together, lovers, husband and wife, bride and groom, wedding dress, bridal gown, portrait, wedding portrait, wedding, wedding, wedding, wedding, wedding, couple",
+      "width": 3840,
+      "height": 5760,
+      "photographer": "Pexels"
+    },
+    {
+      "file": "pixabay/px_TMC-261019-03_2611041107/3.jpg",
+      "pixabay_id": 7566739,
+      "page": "https://pixabay.com/photos/hand-texture-love-couple-romance-7566739/",
+      "tags": "hand, texture, love, couple, romance, history, romantic, love, love, love, love, love",
+      "width": 3456,
+      "height": 5184,
+      "photographer": "Alanjvm"
+    },
+    {
+      "file": "pixabay/px_TMC-261019-03_2611041107/4.jpg",
+      "pixabay_id": 2583943,
+      "page": "https://pixabay.com/photos/love-romance-together-monochrome-2583943/",
+      "tags": "love, romance, together, monochrome, people, old, man, woman, couple, laugh, happy, grandparents, grandfather, grandmother, grandpa, grandma, love, love, love, love, love, romance, romance, romance, people",
+      "width": 3456,
+      "height": 4608,
+      "photographer": "StockSnap"
+    },
+    {
+      "file": "pixabay/px_TMC-261019-03_2611041107/5.jpg",
+      "pixabay_id": 9603171,
+      "page": "https://pixabay.com/photos/arcades-few-seniors-love-9603171/",
+      "tags": "arcades, few, seniors, love, architecture, people, road, old couple",
+      "width": 2796,
+      "height": 4209,
+      "photographer": "wal_172619"
+    },
+    {
+      "file": "pixabay/px_TMC-261019-03_2611041107/6.jpg",
+      "pixabay_id": 10201747,
+      "page": "https://pixabay.com/photos/wedding-couple-wedding-ring-10201747/",
+      "tags": "wedding, couple, wedding ring, holding hands, romantic, city, light, love, man, woman, sunset, portrait, friendship, togetherness, intimate, nature, view, modern, outdoors, strong relationship",
+      "width": 2000,
+      "height": 3000,
+      "photographer": "Moroznaya_Photo"
+    }
+  ]
+}

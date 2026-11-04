@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "query": "coffee cups cafe",
+  "total_found": 500,
+  "results": [
+    {
+      "file": "pixabay/px_TMC-261016-12_2611041107/1.jpg",
+      "pixabay_id": 563800,
+      "page": "https://pixabay.com/photos/coffee-milk-coffee-beans-563800/",
+      "tags": "coffee, milk, coffee beans, cup of coffee, coffee cup, cup, pouring, cream, caffeine, cafe, pour, latte, drink, beverage, coffee, coffee, coffee, coffee, coffee",
+      "width": 2720,
+      "height": 4080,
+      "photographer": "shixugang"
+    },
+    {
+      "file": "pixabay/px_TMC-261016-12_2611041107/2.jpg",
+      "pixabay_id": 7454951,
+      "page": "https://pixabay.com/photos/cafe-coffee-shop-vintage-aesthetic-7454951/",
+      "tags": "cafe, coffee shop, vintage aesthetic, coffee maker, espresso coffee, bartending, relaxing space, cafe, cafe, cafe, cafe, coffee shop, coffee shop, coffee shop, coffee shop, coffee shop",
+      "width": 4160,
+      "height": 6240,
+      "photographer": "bbom100892"
+    },
+    {
+      "file": "pixabay/px_TMC-261016-12_2611041107/3.jpg",
+      "pixabay_id": 9550534,
+      "page": "https://pixabay.com/photos/coffee-machine-coffee-espresso-9550534/",
+      "tags": "coffee machine, coffee, espresso, enjoyment, cup, coffee cup, monochrome, black-and-white",
+      "width": 4339,
+      "height": 5760,
+      "photographer": "Tho-Ge"
+    },
+    {
+      "file": "pixabay/px_TMC-261016-12_2611041107/4.jpg",
+      "pixabay_id": 8342636,
+      "page": "https://pixabay.com/photos/coffee-cup-cappuccino-drink-8342636/",
+      "tags": "coffee, cup, cappuccino, drink, coffee cup, ceramic mug, caffeine, breakfast, espresso, tableware, still life",
+      "width": 4000,
+      "height": 6000,
+      "photographer": "Arturo_Anez"
+    },
+    {
+      "file": "pixabay/px_TMC-261016-12_2611041107/5.jpg",
+      "pixabay_id": 6487114,
+      "page": "https://pixabay.com/photos/ground-coffee-coffee-cup-6487114/",
+      "tags": "ground coffee, coffee, cup, fresh coffee, coffee powder, roasted coffee, aromatic, caffeine, coffee cup, closeup",
+      "width": 2624,
+      "height": 3936,
+      "photographer": "ClaroCafe"
+    },
+    {
+      "file": "pixabay/px_TMC-261016-12_2611041107/6.jpg",
+      "pixabay_id": 5176961,
+      "page": "https://pixabay.com/photos/coffee-mug-heart-caffeine-food-5176961/",
+      "tags": "coffee, mug, heart, caffeine, food, black, aroma, books, espresso, drink, valentine's day, coffee cup, in the morning, cafe, warm, breakfast, seeds, break, hot, restaurant, caf\u00e9, menu, lunch, taste",
+      "width": 4160,
+      "height": 6240,
+      "photographer": "KonradJanik"
+    }
+  ]
+}
