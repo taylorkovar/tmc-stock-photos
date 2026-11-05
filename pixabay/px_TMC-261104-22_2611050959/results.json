@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "query": "cracked ice frozen",
+  "total_found": 500,
+  "results": [
+    {
+      "file": "pixabay/px_TMC-261104-22_2611050959/1.jpg",
+      "pixabay_id": 5538315,
+      "page": "https://pixabay.com/photos/mountain-landscape-lake-city-town-5538315/",
+      "tags": "mountain, landscape, lake, city, town, fantasy, sunset, ice, frozen water, city lights, dark clouds, birds, sea gulls, nature, blue sky, dark sky, coastal town, coastline, dark mood, composite, travel, city, city, city, fantasy, fantasy, fantasy, sunset, city lights, coastal town, coastal town, coastal town, coastal town, coastal town, travel",
+      "width": 3000,
+      "height": 4000,
+      "photographer": "Mollyroselee"
+    },
+    {
+      "file": "pixabay/px_TMC-261104-22_2611050959/2.jpg",
+      "pixabay_id": 7095342,
+      "page": "https://pixabay.com/photos/sunrise-frozen-lake-winter-lake-7095342/",
+      "tags": "sunrise, frozen lake, winter, lake, nature, morning, landscape",
+      "width": 3024,
+      "height": 4032,
+      "photographer": "WOKANDAPIX"
+    },
+    {
+      "file": "pixabay/px_TMC-261104-22_2611050959/3.jpg",
+      "pixabay_id": 7007037,
+      "page": "https://pixabay.com/photos/icicles-ice-crystals-winter-7007037/",
+      "tags": "icicles, ice crystals, winter, close up",
+      "width": 3024,
+      "height": 4032,
+      "photographer": "Rina_omm"
+    },
+    {
+      "file": "pixabay/px_TMC-261104-22_2611050959/4.jpg",
+      "pixabay_id": 6019458,
+      "page": "https://pixabay.com/photos/lake-bank-ice-ice-floes-cold-6019458/",
+      "tags": "lake, bank, ice, ice floes, cold, nature, frost, frozen, wintry, snow, water, light, horizon, atmospheric, afterglow, evening, sky, mountain, panorama, winter",
+      "width": 3828,
+      "height": 5104,
+      "photographer": "fietzfotos"
+    },
+    {
+      "file": "pixabay/px_TMC-261104-22_2611050959/5.jpg",
+      "pixabay_id": 7660301,
+      "page": "https://pixabay.com/photos/ice-rink-frozen-winter-7660301/",
+      "tags": "ice rink, frozen, winter",
+      "width": 2798,
+      "height": 4112,
+      "photographer": "wal_172619"
+    },
+    {
+      "file": "pixabay/px_TMC-261104-22_2611050959/6.jpg",
+      "pixabay_id": 6955460,
+      "page": "https://pixabay.com/photos/ice-rink-frozen-water-winter-6955460/",
+      "tags": "ice rink, frozen water, winter, abstract, background, beautiful wallpaper, iphone wallpaper",
+      "width": 2848,
+      "height": 4288,
+      "photographer": "wal_172619"
+    }
+  ]
+}

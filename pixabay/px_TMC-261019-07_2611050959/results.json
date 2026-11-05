@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "query": "wrapped christmas gifts",
+  "total_found": 500,
+  "results": [
+    {
+      "file": "pixabay/px_TMC-261019-07_2611050959/1.jpg",
+      "pixabay_id": 4695973,
+      "page": "https://pixabay.com/photos/christmas-tree-presents-gifts-4695973/",
+      "tags": "christmas, tree, presents, gifts, holidays, celebration, nature, christmas background",
+      "width": 8087,
+      "height": 9494,
+      "photographer": "jasongillman"
+    },
+    {
+      "file": "pixabay/px_TMC-261019-07_2611050959/2.jpg",
+      "pixabay_id": 6805045,
+      "page": "https://pixabay.com/photos/christmas-christmas-decoration-6805045/",
+      "tags": "christmas, christmas decoration, christmas background, holiday, happychristmas, iphone wallpaper, christmas, christmas, christmas, christmas, christmas, christmas background, christmas background, christmas background, christmas background, christmas background",
+      "width": 3072,
+      "height": 4608,
+      "photographer": "lordgeorgekornelius"
+    },
+    {
+      "file": "pixabay/px_TMC-261019-07_2611050959/3.jpg",
+      "pixabay_id": 964342,
+      "page": "https://pixabay.com/photos/isolated-christmas-sack-to-celebrate-964342/",
+      "tags": "isolated, christmas sack, to celebrate, cute, gifts, gift boxes, santa claus, christmas, santa claus, santa claus, santa claus, santa claus, santa claus, christmas, christmas, christmas, christmas",
+      "width": 2688,
+      "height": 2931,
+      "photographer": "Schwarzenarzisse"
+    },
+    {
+      "file": "pixabay/px_TMC-261019-07_2611050959/4.jpg",
+      "pixabay_id": 3823530,
+      "page": "https://pixabay.com/photos/christmas-pink-presents-3823530/",
+      "tags": "christmas, pink, presents, christmas tree, bedroom, decorations, decoration, home, cosy, wrapping gifts, gift wrapping, lifestyle, christmasbackground, happychristmas, iphone wallpaper, christmas, christmas, christmas, christmas, christmas, christmas tree, christmas tree, christmas tree, christmas tree, bedroom",
+      "width": 3599,
+      "height": 5398,
+      "photographer": "JillWellington"
+    },
+    {
+      "file": "pixabay/px_TMC-261019-07_2611050959/5.jpg",
+      "pixabay_id": 3823527,
+      "page": "https://pixabay.com/photos/christmas-pink-presents-gifts-3823527/",
+      "tags": "christmas, pink, presents, gifts, christmas tree, bedroom, decorations, decoration, home, cosy, lifestyle, christmas tree, christmas tree, christmas tree, christmas tree, christmas tree",
+      "width": 3776,
+      "height": 5664,
+      "photographer": "JillWellington"
+    },
+    {
+      "file": "pixabay/px_TMC-261019-07_2611050959/6.jpg",
+      "pixabay_id": 8462160,
+      "page": "https://pixabay.com/photos/christmas-gifts-christmas-gifts-8462160/",
+      "tags": "christmas gifts, christmas, gifts, decoration, surprise, ribbon, celebration, gift wrapping, give a gift, packaging, wrapped up, christmas party, present, christmas decoration",
+      "width": 3884,
+      "height": 5826,
+      "photographer": "ChiemSeherin"
+    }
+  ]
+}

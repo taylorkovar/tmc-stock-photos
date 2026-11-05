@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "query": "shopping bags clothes",
+  "total_found": 500,
+  "results": [
+    {
+      "file": "pixabay/px_TMC-261019-06_2611050959/1.jpg",
+      "pixabay_id": 4011117,
+      "page": "https://pixabay.com/photos/shopping-fashion-bag-wardrobe-4011117/",
+      "tags": "shopping, fashion, bag, wardrobe, clothes, style, fashionable, shopping, shopping, shopping, shopping, shopping, wardrobe, wardrobe, wardrobe",
+      "width": 2000,
+      "height": 3008,
+      "photographer": "justynafaliszek"
+    },
+    {
+      "file": "pixabay/px_TMC-261019-06_2611050959/2.jpg",
+      "pixabay_id": 5074911,
+      "page": "https://pixabay.com/photos/old-people-man-woman-love-nature-5074911/",
+      "tags": "old people, man, woman, love, nature, path, walk, harmony, hand in hand, arm-in-arm, people, pair, togetherness, together, as a couple, older, old, relationship, man and woman, silhouettes, lovers, fall, old people, old people, old people, old people, old people, people, people, people, older, older",
+      "width": 3632,
+      "height": 5456,
+      "photographer": "Marzena7"
+    },
+    {
+      "file": "pixabay/px_TMC-261019-06_2611050959/3.jpg",
+      "pixabay_id": 4627348,
+      "page": "https://pixabay.com/photos/woman-beautiful-model-women-4627348/",
+      "tags": "woman, beautiful, model, women, portrait, beauty, expensive, people, eyes, young, make-up, sensual, person, hair, attractive, seductive, youths, girl, alegre, joy, position",
+      "width": 3261,
+      "height": 5008,
+      "photographer": "Fredy_Martinez_Photograph"
+    },
+    {
+      "file": "pixabay/px_TMC-261019-06_2611050959/4.jpg",
+      "pixabay_id": 6931076,
+      "page": "https://pixabay.com/photos/woman-girl-bag-walking-the-street-6931076/",
+      "tags": "woman, girl, bag, walking, the street, the sidewalk, outdoor, urban, town, the nature",
+      "width": 3000,
+      "height": 4500,
+      "photographer": "Surprising_Media"
+    },
+    {
+      "file": "pixabay/px_TMC-261019-06_2611050959/5.jpg",
+      "pixabay_id": 7355812,
+      "page": "https://pixabay.com/photos/woman-walking-sidewalk-city-blonde-7355812/",
+      "tags": "woman, walking, sidewalk, city, blonde, casual, street, urban, everyday life",
+      "width": 4000,
+      "height": 6000,
+      "photographer": "Surprising_Media"
+    },
+    {
+      "file": "pixabay/px_TMC-261019-06_2611050959/6.jpg",
+      "pixabay_id": 7308773,
+      "page": "https://pixabay.com/photos/woman-elderly-crossing-street-7308773/",
+      "tags": "woman, elderly, crossing, street, walking, stick, bag, hat, casual, urban, pedestrian, road",
+      "width": 3000,
+      "height": 4500,
+      "photographer": "Surprising_Media"
+    }
+  ]
+}
