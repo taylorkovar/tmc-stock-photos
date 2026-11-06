@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "query": "flat screen tv",
+  "total_found": 500,
+  "results": [
+    {
+      "file": "pixabay/px_TMC-261106-09_2611061014/1.jpg",
+      "pixabay_id": 3567130,
+      "page": "https://pixabay.com/photos/vintage-bogota-ancient-retro-3567130/",
+      "tags": "vintage, bogota, ancient, retro, decoration, 80s, interiors, inside, vintage, vintage, vintage, vintage, vintage, ancient, retro, retro, 80s, 80s, 80s",
+      "width": 3456,
+      "height": 4320,
+      "photographer": "Anfesamo"
+    },
+    {
+      "file": "pixabay/px_TMC-261106-09_2611061014/2.jpg",
+      "pixabay_id": 10326653,
+      "page": "https://pixabay.com/photos/vintage-television-retro-technology-10326653/",
+      "tags": "vintage television, retro technology, stacked television, analog television, old electronics, classic television, communication device, nostalgic device, broadcast media, retro design, television history, entertainment technology, isolated object, outdated technology, screen display, antenna television, historical device, television collection, entertainment device, image nostalgia",
+      "width": 3764,
+      "height": 6688,
+      "photographer": "PixelLabs"
+    },
+    {
+      "file": "pixabay/px_TMC-261106-09_2611061014/3.jpg",
+      "pixabay_id": 2565306,
+      "page": "https://pixabay.com/photos/tv-monitor-screen-bedroom-bed-2565306/",
+      "tags": "tv, monitor, screen, bedroom, bed, relax, inside, house, laptop, tv, tv, tv, tv, tv, screen, laptop",
+      "width": 3310,
+      "height": 4138,
+      "photographer": "StockSnap"
+    },
+    {
+      "file": "pixabay/px_TMC-261106-09_2611061014/4.jpg",
+      "pixabay_id": 403583,
+      "page": "https://pixabay.com/photos/children-tv-child-television-home-403583/",
+      "tags": "children, tv, child, television, home, people, boy, family, young, sitting, watching, happy, room, lifestyle, remote, together, fun, kid, man, indoors, children, television, television, television, television, television",
+      "width": 2832,
+      "height": 4256,
+      "photographer": "mojzagrebinfo"
+    },
+    {
+      "file": "pixabay/px_TMC-261106-09_2611061014/5.jpg",
+      "pixabay_id": 4989557,
+      "page": "https://pixabay.com/photos/tv-old-retro-watch-tv-screen-4989557/",
+      "tags": "tv, old, retro, watch tv, screen, nostalgia, classic, wood, tv, tv, tv, tv, tv, watch tv",
+      "width": 4000,
+      "height": 6000,
+      "photographer": "dmncwndrlch"
+    },
+    {
+      "file": "pixabay/px_TMC-261106-09_2611061014/6.jpg",
+      "pixabay_id": 9795616,
+      "page": "https://pixabay.com/photos/bird-sparrow-berlin-9795616/",
+      "tags": "bird, sparrow, berlin, beautiful wallpaper, nature, television tower, grid, background, structure, cage, template, hd background",
+      "width": 2606,
+      "height": 3818,
+      "photographer": "wal_172619"
+    }
+  ]
+}
