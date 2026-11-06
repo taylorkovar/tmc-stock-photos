@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "query": "online shopping smartphone",
+  "total_found": 500,
+  "results": [
+    {
+      "file": "pixabay/px_TMC-261019-11_2611061002/1.jpg",
+      "pixabay_id": 693325,
+      "page": "https://pixabay.com/photos/mobile-online-dare-shopping-venture-693325/",
+      "tags": "mobile, online, dare, shopping venture, basket, basket trolley, purchasing, shopping, chrome, glittering",
+      "width": 3888,
+      "height": 5184,
+      "photographer": "422737"
+    },
+    {
+      "file": "pixabay/px_TMC-261019-11_2611061002/2.jpg",
+      "pixabay_id": 570214,
+      "page": "https://pixabay.com/photos/smartphone-mobile-app-icon-570214/",
+      "tags": "smartphone, mobile, app, icon, purchasing, to buy, trade, shop, shopping, shopping venture, character, social media, button, phone, communication, cellular technology, call, screen, wireless, company, digital, message, connection, communicate, electronics, display, hand, tap, conversation, computer, touch screen, applications, office, android, google-phone",
+      "width": 1968,
+      "height": 2324,
+      "photographer": "geralt"
+    },
+    {
+      "file": "pixabay/px_TMC-261019-11_2611061002/3.jpg",
+      "pixabay_id": 7862413,
+      "page": "https://pixabay.com/photos/woman-shopping-market-lifestyle-7862413/",
+      "tags": "woman, shopping market, lifestyle, marketplace, people, people, people, people, people, people",
+      "width": 4000,
+      "height": 6000,
+      "photographer": "thangshooter"
+    },
+    {
+      "file": "pixabay/px_TMC-261019-11_2611061002/4.jpg",
+      "pixabay_id": 8544672,
+      "page": "https://pixabay.com/photos/sunset-phone-capture-view-scenery-8544672/",
+      "tags": "sunset, phone, capture, view, scenery, photography, netherlands, magical, nature, sea, nature, nature, nature, nature, nature",
+      "width": 4000,
+      "height": 6000,
+      "photographer": "BKjaev"
+    },
+    {
+      "file": "pixabay/px_TMC-261019-11_2611061002/5.jpg",
+      "pixabay_id": 7276658,
+      "page": "https://pixabay.com/photos/asian-woman-fashion-museum-art-7276658/",
+      "tags": "asian, woman, fashion, museum, art, smartphone, plants, palm, jewelry, nature, winter garden",
+      "width": 3701,
+      "height": 5551,
+      "photographer": "sharkolot"
+    },
+    {
+      "file": "pixabay/px_TMC-261019-11_2611061002/6.jpg",
+      "pixabay_id": 569515,
+      "page": "https://pixabay.com/photos/screen-smartphone-mobile-phone-569515/",
+      "tags": "screen, smartphone, mobile phone, cell phone, touch screen, electronic device, app, applications, android, mobile phone, mobile phone, mobile phone, mobile phone, cell phone, cell phone, cell phone, cell phone, cell phone, android",
+      "width": 1968,
+      "height": 2324,
+      "photographer": "geralt"
+    }
+  ]
+}

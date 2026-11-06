@@ -1,0 +1,61 @@
+{
+  "ok": true,
+  "query": "coffee mugs phone table",
+  "total_found": 500,
+  "results": [
+    {
+      "file": "pixabay/px_TMC-261106-12_2611061002/1.jpg",
+      "pixabay_id": 1887008,
+      "page": "https://pixabay.com/photos/coffee-smartphone-work-1887008/",
+      "tags": "coffee, smartphone, work, work and coffee, stay awake, office, workspace, wood, communication, internet, business, table, cup of coffee, sony, xperia z, touch screen, mobile, black, coffee, coffee, coffee, coffee, coffee, stay awake, stay awake, office, office, workspace, sony, sony, sony, black",
+      "width": 3297,
+      "height": 4946,
+      "photographer": "TeeFarm"
+    },
+    {
+      "file": "pixabay/px_TMC-261106-12_2611061002/2.jpg",
+      "pixabay_id": 7155689,
+      "page": "https://pixabay.com/photos/book-coffee-cup-reading-morning-7155689/",
+      "tags": "book, coffee, cup, reading, coffee cup, morning, education",
+      "width": 2126,
+      "height": 3189,
+      "photographer": "OlgaVolkovitskaia"
+    },
+    {
+      "file": "pixabay/px_TMC-261106-12_2611061002/3.jpg",
+      "pixabay_id": 5174893,
+      "page": "https://pixabay.com/photos/coffee-cup-book-audiobook-audio-5174893/",
+      "tags": "coffee, cup, book, audiobook, audio, headphones, the mountain between us, listening, teaspoon, caffeine, drink, hot, audiobook, audiobook, audiobook, audiobook, audiobook",
+      "width": 2848,
+      "height": 4272,
+      "photographer": "PetraSolajova"
+    },
+    {
+      "file": "pixabay/px_TMC-261106-12_2611061002/4.jpg",
+      "pixabay_id": 4862622,
+      "page": "https://pixabay.com/photos/coffee-milk-cappuccino-drink-caf%C3%A9-4862622/",
+      "tags": "coffee, milk, coffee cup, cappuccino, drink, caf\u00e9, mug, hot, caffeine, espresso, scent, breakfast",
+      "width": 3674,
+      "height": 5653,
+      "photographer": "Be_Stasya"
+    },
+    {
+      "file": "pixabay/px_TMC-261106-12_2611061002/5.jpg",
+      "pixabay_id": 2619216,
+      "page": "https://pixabay.com/photos/cup-mug-steaming-smoke-coffee-tea-2619216/",
+      "tags": "cup, mug, tea cup, steaming, coffee cup, smoke, coffee, tea, drink, beverage, black wallpaper, black",
+      "width": 3290,
+      "height": 4387,
+      "photographer": "StockSnap"
+    },
+    {
+      "file": "pixabay/px_TMC-261106-12_2611061002/6.jpg",
+      "pixabay_id": 4222025,
+      "page": "https://pixabay.com/photos/desk-tea-coffee-table-laptop-cup-4222025/",
+      "tags": "desk, tea, coffee, table, laptop, cup, coffee cup, tea cup, mug, workplace",
+      "width": 3136,
+      "height": 4240,
+      "photographer": "monicore"
+    }
+  ]
+}
